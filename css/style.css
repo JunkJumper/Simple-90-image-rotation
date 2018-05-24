@@ -1,0 +1,14 @@
+img {
+    display: block;
+    margin: 10px;
+    }
+img {
+    -webkit-transition-duration: 10s;
+    -moz-transition-duration: 10s;
+    -o-transition-duration: 10s;
+    transition-duration: 10s;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+    }
